@@ -2,9 +2,8 @@
 	"nodes":[
 		{"id":"ef07ec0ad500b3a8","type":"text","text":"Training Set","x":-80,"y":-240,"width":146,"height":60},
 		{"id":"bb853418ea095e64","type":"text","text":"Learning Algorithm","x":-132,"y":-120,"width":250,"height":60},
-		{"id":"00f67e76f903f2cd","type":"text","text":"","x":-160,"y":300,"width":250,"height":60},
 		{"id":"a7c135530bf359e5","type":"text","text":"*function f*","x":-80,"y":-20,"width":146,"height":60},
-		{"id":"439edeb07be48ad5","x":-193,"y":-20,"width":66,"height":60,"type":"text","text":"x"},
+		{"id":"439edeb07be48ad5","type":"text","text":"x","x":-193,"y":-20,"width":66,"height":60},
 		{"id":"b33e1be74ad0c026","type":"text","text":"ŷ","x":118,"y":-20,"width":66,"height":60}
 	],
 	"edges":[

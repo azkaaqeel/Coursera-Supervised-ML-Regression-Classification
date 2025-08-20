@@ -1,6 +1,6 @@
 nothing new, just combining features helps at times for eg if given width and height- area!
 
-![[../../attachments/Pasted image 20250819143123.png]]
+![](../../attachments/Pasted%20image%2020250819143123.png)
 - adds non-linearity in a linear f(x)
 
 ### Polynomial Regression

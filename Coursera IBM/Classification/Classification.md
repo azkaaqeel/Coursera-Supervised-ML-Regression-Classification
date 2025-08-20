@@ -8,7 +8,11 @@ LR shifts decision boundary a lot by adding an example
 ### Logistic Regression
 
 1. **Sigmoid Function**
-![[../../attachments/Pasted image 20250819201114.png]]
+![](../../attachments/Pasted%20image%2020250819201114.png)
 Logistic Regression model: Input the LR as a variable in sigmoid function
 
-![[../../attachments/Pasted image 20250819201714.png]]
+![](../../attachments/Pasted%20image%2020250819201714.png)
+
+
+
+

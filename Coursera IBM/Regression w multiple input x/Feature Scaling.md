@@ -3,7 +3,7 @@
 2. mean
 
 #### Z-score Normalizaton
-![[../../attachments/Pasted image 20250819114852.png]]
+![](../../attachments/Pasted%20image%2020250819114852.png)
 
 For scaling, check if range is too small or too large, in both conditions, one must consider rescaling
 too large--> gradient descent runs v slowly
@@ -26,7 +26,7 @@ Key choices --> alpha
 
 Learning curve:
 
-![[../../attachments/Pasted image 20250819115844.png]]
+![](../../attachments/Pasted%20image%2020250819115844.png)
 If cost increases after an iteration, indicates:
 1. bug in code
 2. poor choice of alpha
@@ -36,7 +36,7 @@ i.e. setting an epsilon, if cost decreases <= epsilon, declare convergence.
 
 #### Choosing learning rate
 
-![[../../attachments/Pasted image 20250819120424.png]]
+![](../../attachments/Pasted%20image%2020250819120424.png)
 
 
 

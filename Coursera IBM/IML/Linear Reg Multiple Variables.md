@@ -1,7 +1,7 @@
 More than one feaure --? Multiple variables
 
 Can be rewritten as vector:
-![[Pasted image 20241215161917.png]]
+![](Pasted%20image%2020241215161917.png)
 
 Vectorization Benefits:
 1) code shorter, 
@@ -10,12 +10,12 @@ Vectorization Benefits:
 
 Comparison:
 
-![[Pasted image 20241215162203.png]]
+![](Pasted%20image%2020241215162203.png)
 
 **Indexing** means referring to _an element_ of an array by its position within the array.  
 **Slicing** means getting a _subset_ of elements from an array based on their indices.
-![[Pasted image 20241215170518.png]]
-![[Pasted image 20241215171250.png]]
+![](Pasted%20image%2020241215170518.png)
+![](Pasted%20image%2020241215171250.png)
 
 Alternative to GD:
 Normal equation

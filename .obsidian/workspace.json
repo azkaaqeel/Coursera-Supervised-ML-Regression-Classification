@@ -203,6 +203,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -213,6 +215,7 @@
   },
   "active": "ee19e3974ec23699",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250820163943.png",
     "attachments/Pasted image 20250819210020.png",
     "Coursera IBM/Regression w multiple input x/One Hot vs Dummies.md",
     "attachments",

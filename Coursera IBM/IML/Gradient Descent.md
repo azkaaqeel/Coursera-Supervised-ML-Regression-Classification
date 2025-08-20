@@ -29,7 +29,7 @@ Baby step, so happens slowly, more steps needed to reach min
 2. Too large
 Possibility of missing the min first and reaching a point such that cost is greater, GD may overshoot and keep going further, may never reach minimum. Fail to converge --> Diverge
 
-![[Pasted image 20241215160800.png]]
+![](Pasted%20image%2020241215160800.png)
 
 What if starting point = minimum?
 
@@ -37,15 +37,15 @@ If you are already at a local minimum, derivate will be 0, GD will leave w uncha
 
 As we are approaching minimum, GD takes very small steps as the derivative gets smaller, thus a smaller value is deducted.
 
-![[Pasted image 20241215140822.png]]
+![](Pasted%20image%2020241215140822.png)
 
-![[Pasted image 20241215141045.png]]
+![](Pasted%20image%2020241215141045.png)
 
 When using a squared error cost function with LR, the cost function will have SINGLE GLOBAL MINIMUM, not multiple local minima.
 
 WHY?
 1. Bowl Shape:
-![[Pasted image 20241215144912.png]]
+![](Pasted%20image%2020241215144912.png)
 The cost function is a convex function.
 Convex function have no other local minimum other than the global minimum.
 As long as the alpha is chosen correctlty, GD will always converge to global minimum for Convex functions.

@@ -23,7 +23,7 @@ x = input
 ŷ = target
 m = number of training samples
 ( x, y ) = single training example
-![[Pasted image 20241025215108.png]]
+![](Pasted%20image%2020241025215108.png)
 
 #### Linear Regression
 $$
@@ -53,21 +53,21 @@ $$
 1. Setting b = 0
 2. Now goal is to find a value of w such that function value is minimum.
 
-![[Pasted image 20241027010357.png]]
+![](Pasted%20image%2020241027010357.png)
 
 3. The **function f** depends on input x, function of x
 4. The **cost function** depends on the value of w, function of w ie a parameter
 
 
-![[Pasted image 20241107223314.png]]
+![](Pasted%20image%2020241107223314.png)
 
 **Visualing Cost Function**
 In the case where we do not set b to 0, we have a 3d graph.
 
-![[Pasted image 20241109131128.png]]
+![](Pasted%20image%2020241109131128.png)
 Multiple pairs of w and b such that they have the same value of cost function:
-![[Pasted image 20241109131512.png]]
+![](Pasted%20image%2020241109131512.png)
 Minimum is the peak basically:
-![[Pasted image 20241109131744.png]]
+![](Pasted%20image%2020241109131744.png)
 
 

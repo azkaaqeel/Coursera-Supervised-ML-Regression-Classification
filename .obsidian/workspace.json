@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursera IBM/Classification/Decision Boundary.md",
+                "file": "Coursera IBM/Classification/Classification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Decision Boundary"
+              "title": "Classification"
             }
           }
         ],
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6aacf1081c938089",
@@ -214,31 +213,32 @@
   },
   "active": "ee19e3974ec23699",
   "lastOpenFiles": [
-    "Pasted image 20250819211500.png",
-    "Pasted image 20250819211225.png",
-    "Pasted image 20250819210811.png",
+    "attachments/Pasted image 20250819210020.png",
+    "Coursera IBM/Regression w multiple input x/One Hot vs Dummies.md",
+    "attachments",
+    "Coursera IBM/Classification/Decision Boundary.md",
+    "README.md",
+    "attachments/Pasted image 20250819211500.png",
+    "attachments/Pasted image 20250819211225.png",
+    "attachments/Pasted image 20250819210811.png",
     "Coursera IBM/IML/Gradient Descent.md",
     "Coursera IBM/IML/Linear Regression.md",
     "Coursera IBM/IML/Linear Reg Multiple Variables.md",
-    "Coursera IBM/Classification/Decision Boundary.md",
-    "Pasted image 20250819210358.png",
-    "Pasted image 20250819210020.png",
+    "attachments/Pasted image 20250819210358.png",
     "Coursera IBM/Classification/Classification.md",
     "Welcome.md",
     "Coursera IBM/Regression w multiple input x/Feature engineering.md",
     "Kaggle/Train Test Split().md",
-    "Pasted image 20250819114852.png",
+    "attachments/Pasted image 20250819114852.png",
     "Coursera IBM/Classification",
     "Coursera IBM/Regression w multiple input x",
     "Coursera IBM/Regression w multiple input x/Feature Scaling.md",
-    "Coursera IBM/Regression w multiple input x/One Hot vs Dummies.md",
     "Coursera IBM/IML/Explanatory vs Predictive.md",
     "Coursera IBM/IML",
-    "Pasted image 20250819201714.png",
-    "Pasted image 20250819201114.png",
-    "Pasted image 20250819143123.png",
-    "Pasted image 20250819120424.png",
-    "Pasted image 20250819120403.png",
+    "attachments/Pasted image 20250819201714.png",
+    "attachments/Pasted image 20250819201114.png",
+    "attachments/Pasted image 20250819143123.png",
+    "attachments/Pasted image 20250819120424.png",
     "Coursera IBM/IML/Flow of ML.canvas",
     "Kaggle/Classifiers.md",
     "Kaggle/Decision Trees.md",
